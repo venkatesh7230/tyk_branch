@@ -459,6 +459,16 @@
       "providers": []
     }
   },
+  "oas": {
+    "components": {},
+    "info": {
+      "contact": {},
+      "title": "",
+      "version": ""
+    },
+    "openapi": "",
+    "paths": {}
+  },
   "hook_references": [],
   "is_site": false,
   "sort_by": 0,
